@@ -1,7 +1,7 @@
 # DVProjectGroup7
 Code for dash app implementation for Data Visualization Project 
 
-Links for datasets, since they were too big to be uploaded:
+Links for datasets:
 
 https://www.kaggle.com/datasets/ognevdenis/covid-19-datasets
 
