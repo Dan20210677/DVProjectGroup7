@@ -1,0 +1,11 @@
+gunicorn
+plotly
+dash
+requests
+dash_renderer
+dash-html-components
+dash-core-components
+dash-bootstrap-components
+scikit-image
+pandas
+numpy
